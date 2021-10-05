@@ -8,6 +8,7 @@ Distribute profits to different tiers of employees.
 
 
 Distribute company shares for employees in a "deferred equity incentive plan" automatically.
+
 Level 1 - allows your company to divide profits/income evenly amongst all employees
 
 Level 2 - allows your company to divide profits/income by percentages, thus giving employees different incomes depending on their hierarchy.
